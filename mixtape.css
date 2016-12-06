@@ -56,13 +56,12 @@ h1 {
 }
 
 h2 {
-  font-family: 'Playfair Display';
-  font-size: 3vw;
+  font-family: 'Homemade Apple', cursive;
+  font-size: 4vw;
   font-style: italic;
   font-weight: 400;
-  text-transform: capitalize;
   position: absolute;
-  left:15%;
+  left:25%;
   top: 0;
 }
 
